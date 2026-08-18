@@ -6,7 +6,7 @@
 
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="[https://visitor-badge.laobi.icu/badge?page_id=Luis-Maia02.Luis-Maia02&left_color=black&right_color=black&left_text=%F0%9F%91%80](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2szYTA0MjB0M3ZpMWUyOXlvb3RjYnk0OGZyb3h4MHpqNnB2NmVlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsRbLNGt71qiPHnGCB/giphy.gif)"  />
+  <img data-importer="profile-views" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2szYTA0MjB0M3ZpMWUyOXlvb3RjYnk0OGZyb3h4MHpqNnB2NmVlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsRbLNGt71qiPHnGCB/200.webp"  />
 </div>
 
 ###
