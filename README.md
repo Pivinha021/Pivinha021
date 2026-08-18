@@ -32,10 +32,10 @@
 
 </div>
 
-<picture data-importer="pacman">
+<picture data-importer="bomberman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pivinha021/Pivinha021/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pivinha021/Pivinha021/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pivinha021/Pivinha021/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Pivinha021/Pivinha021/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 ---
