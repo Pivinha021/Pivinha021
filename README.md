@@ -13,21 +13,6 @@
 
 <br/><br/>
 
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="left" width="50%">
-
-<div style="background-color:#111; padding:20px 25px; border-radius:12px;">
-
-
-</div>
-
-</td>
-
-<td align="right" width="50%">
 
 <div style="border-radius:18px; overflow:hidden;">
 
