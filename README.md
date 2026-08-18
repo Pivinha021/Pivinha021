@@ -6,7 +6,7 @@
 
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2szYTA0MjB0M3ZpMWUyOXlvb3RjYnk0OGZyb3h4MHpqNnB2NmVlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsRbLNGt71qiPHnGCB/200.webp"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Luis-Maia02.Luis-Maia02&left_color=black&right_color=black&left_text=%F0%9F%91%80"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 
 <img 
   width="500"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG94bnJ4dm5sMHFjM3g5NTk4ZnBnaWt6Z200eXpscDcyaW5pcTAxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VsIInA5eJxE9tQ7MIe/giphy.gif"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2szYTA0MjB0M3ZpMWUyOXlvb3RjYnk0OGZyb3h4MHpqNnB2NmVlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsRbLNGt71qiPHnGCB/200.webp"
 />
 
 </div>
