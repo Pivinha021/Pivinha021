@@ -14,7 +14,7 @@
 <br/><br/>
 
 
-<div style="border-radius:18px; overflow:hidden; align-center;">
+<div style="border-radius:18px; overflow:hidden; align-itens: center;">
 
 <img 
   width="500"
