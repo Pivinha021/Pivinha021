@@ -6,7 +6,7 @@
 
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Luis-Maia02.Luis-Maia02&left_color=black&right_color=black&left_text=%F0%9F%91%80"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Pivinha021.Pivinha021&left_color=black&right_color=black&left_text=%F0%9F%91%80"  />
 </div>
 
 ###
@@ -68,7 +68,6 @@
 
 ## Statistics
 <div align="center">
-<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
 <img src="https://streak-stats.demolab.com?user=Pivinha021&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
