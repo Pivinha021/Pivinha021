@@ -21,15 +21,6 @@
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2szYTA0MjB0M3ZpMWUyOXlvb3RjYnk0OGZyb3h4MHpqNnB2NmVlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsRbLNGt71qiPHnGCB/200.webp"
 />
 
-</div>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
 <br/><br/>
 <div align= "center">
   <h1> Technologies </h1>
