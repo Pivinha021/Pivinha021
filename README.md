@@ -13,14 +13,8 @@
 
 <br/><br/>
 
-
-<div style="border-radius:18px; overflow:hidden; justify-content:center;">
-
-<img 
-  width="500"
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2szYTA0MjB0M3ZpMWUyOXlvb3RjYnk0OGZyb3h4MHpqNnB2NmVlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsRbLNGt71qiPHnGCB/200.webp"
-/>
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2szYTA0MjB0M3ZpMWUyOXlvb3RjYnk0OGZyb3h4MHpqNnB2NmVlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsRbLNGt71qiPHnGCB/200.webp"  />
 </div>
 
 <br/><br/>
@@ -38,7 +32,11 @@
 
 </div>
 
-
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pivinha021/Pivinha021/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pivinha021/Pivinha021/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pivinha021/Pivinha021/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ---
 
